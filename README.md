@@ -1,6 +1,6 @@
 # mobilab-full-stack-dev-tasks
 
-##Introduction
+## Introduction
 This repository contains a simple Account Management Service to define bank accounts and perform money transactions between them with the functionality of currency conversion.
 
 ## Build and Run
